@@ -1,0 +1,7 @@
+name = "engl-010-writing-tutor"
+main = "worker.js"
+compatibility_date = "2026-11-26"
+
+[assets]
+directory = "."
+binding = "ASSETS"
